@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FirtsWebApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(FirtsWebApplication.class, args);
 	}
 
